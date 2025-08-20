@@ -1,0 +1,292 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What are your restaurant hours?",
+      "answer": "We're open Monday through Thursday from 11 AM to 10 PM, Friday and Saturday from 11 AM to 11 PM, and Sunday from 12 PM to 9 PM. Kitchen closes 30 minutes before closing time.",
+      "category": "hours",
+      "keywords": ["hours", "open", "close", "time", "when", "schedule", "business hours", "Monday", "Tuesday", "Wednesday", "Thursday"]
+    },
+    {
+      "id": 2,
+      "question": "Do you offer delivery service?",
+      "answer": "Yes! We offer delivery within a 5-mile radius for orders over $20. Delivery usually takes 30-45 minutes. You can order through our website, app, or third-party platforms like DoorDash and Uber Eats.",
+      "category": "delivery",
+      "keywords": ["delivery", "deliver", "bring", "order", "DoorDash", "Uber Eats"]
+    },
+    {
+      "id": 3,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept cash, all major credit cards (Visa, MasterCard, American Express), debit cards, Apple Pay, Google Pay, and contactless payments. We do not accept checks.",
+      "category": "payment",
+      "keywords": ["payment", "pay", "credit card", "cash", "Apple Pay", "money"]
+    },
+    {
+      "id": 4,
+      "question": "Do you have vegetarian options?",
+      "answer": "Absolutely! We have a dedicated vegetarian section on our menu with over 15 options including veggie burgers, salads, pasta dishes, and plant-based proteins. All vegetarian items are clearly marked.",
+      "category": "menu",
+      "keywords": ["vegetarian", "vegan", "veggie", "plant-based", "no meat", "vegetables"]
+    },
+    {
+      "id": 5,
+      "question": "Can you accommodate food allergies?",
+      "answer": "Yes, we take food allergies seriously. Please inform your server about any allergies when ordering. We can modify most dishes to accommodate common allergies like nuts, dairy, and gluten. However, we cannot guarantee 100% cross-contamination prevention.",
+      "category": "allergies",
+      "keywords": ["allergies", "gluten-free", "nuts", "dairy", "allergic", "special diet"]
+    },
+    {
+      "id": 6,
+      "question": "Do I need a reservation?",
+      "answer": "Reservations are recommended for dinner, especially on weekends. You can make reservations online, by phone, or through OpenTable. Walk-ins are welcome but may have a wait time during busy periods.",
+      "category": "reservations",
+      "keywords": ["reservation", "book", "table", "appointment", "walk-in", "OpenTable"]
+    },
+    {
+      "id": 7,
+      "question": "What is your cancellation policy?",
+      "answer": "You can cancel your reservation up to 2 hours before your scheduled time without penalty. Late cancellations or no-shows may result in a $25 fee per person for parties of 6 or more.",
+      "category": "policy",
+      "keywords": ["cancel", "cancellation", "policy", "fee", "no-show", "change"]
+    },
+    {
+      "id": 8,
+      "question": "Do you have a kids menu?",
+      "answer": "Yes! Our kids menu features child-friendly portions and favorites like chicken nuggets, mac and cheese, mini burgers, and grilled cheese. All kids meals include a drink and a side for $8.99.",
+      "category": "menu",
+      "keywords": ["kids", "children", "kids menu", "child", "family", "nuggets"]
+    },
+    {
+      "id": 9,
+      "question": "Is there parking available?",
+      "answer": "We have a free parking lot with 50 spaces behind the restaurant. Street parking is also available. During peak hours, you might need to park a block away and walk.",
+      "category": "parking",
+      "keywords": ["parking", "park", "car", "space", "lot", "street parking"]
+    },
+    {
+      "id": 10,
+      "question": "Do you serve alcohol?",
+      "answer": "Yes, we have a full bar with beer, wine, and cocktails. We serve alcohol until 10 PM on weekdays and 11 PM on weekends. Valid ID required for all alcohol purchases.",
+      "category": "alcohol",
+      "keywords": ["alcohol", "beer", "wine", "cocktails", "bar", "drinks", "ID"]
+    },
+    {
+      "id": 11,
+      "question": "Can I order takeout?",
+      "answer": "Absolutely! You can call ahead for takeout or order online. Takeout orders are usually ready in 15-20 minutes. We provide eco-friendly packaging and utensils upon request.",
+      "category": "takeout",
+      "keywords": ["takeout", "take out", "pick up", "to go", "order ahead"]
+    },
+    {
+      "id": 12,
+      "question": "Do you offer catering services?",
+      "answer": "Yes, we cater events of all sizes! Our catering menu includes party platters, boxed lunches, and full-service options. Please call us at least 48 hours in advance to discuss your needs.",
+      "category": "catering",
+      "keywords": ["catering", "party", "event", "large order", "platters", "office"]
+    },
+    {
+      "id": 13,
+      "question": "What is the dress code?",
+      "answer": "We have a casual dress code. Feel free to come as you are! Most guests wear casual attire like jeans and t-shirts. We welcome families and don't require formal dress.",
+      "category": "policy",
+      "keywords": ["dress code", "attire", "clothing", "casual", "formal", "what to wear"]
+    },
+    {
+      "id": 14,
+      "question": "Do you have WiFi for customers?",
+      "answer": "Yes, we offer free WiFi! The network name is 'RestaurantGuest' and the password is 'Welcome123'. Perfect for working lunches or staying connected while you dine.",
+      "category": "amenities",
+      "keywords": ["WiFi", "internet", "wireless", "connection", "password", "free"]
+    },
+    {
+      "id": 15,
+      "question": "Can I bring my own cake for celebrations?",
+      "answer": "Yes, you can bring your own cake for birthdays and special celebrations! We charge a small cake cutting fee of $3 per person. Please let us know when making your reservation.",
+      "category": "policy",
+      "keywords": ["cake", "birthday", "celebration", "bring", "own", "cutting fee"]
+    },
+    {
+      "id": 16,
+      "question": "Are pets allowed in the restaurant?",
+      "answer": "Service animals are always welcome. For pets, we have a dog-friendly outdoor patio where well-behaved, leashed dogs are welcome. We even have a special dog treat menu!",
+      "category": "pets",
+      "keywords": ["pets", "dogs", "animals", "patio", "service animal", "outdoor"]
+    },
+    {
+      "id": 17,
+      "question": "How can I leave feedback about my experience?",
+      "answer": "We love hearing from our customers! You can leave reviews on Google, Yelp, or Facebook. You can also email us directly at feedback@restaurant.com or speak with a manager during your visit.",
+      "category": "feedback",
+      "keywords": ["feedback", "review", "complaint", "compliment", "experience", "manager"]
+    },
+    {
+      "id": 18,
+      "question": "Do you have daily specials?",
+      "answer": "Yes! We feature daily specials Monday through Friday. Monday is Taco Night, Wednesday is Wing Night with 50% off wings, and Friday features fresh fish specials. Check our social media for updates!",
+      "category": "specials",
+      "keywords": ["specials", "daily", "deals", "promotions", "discount", "taco", "wings"]
+    },
+    {
+      "id": 19,
+      "question": "Is the restaurant wheelchair accessible?",
+      "answer": "Yes, our restaurant is fully wheelchair accessible with ramp access, wide doorways, accessible restrooms, and designated seating areas. Please let us know if you need any special accommodations.",
+      "category": "accessibility",
+      "keywords": ["wheelchair", "accessible", "disability", "ramp", "accommodation", "ADA"]
+    },
+    {
+      "id": 20,
+      "question": "Can I purchase gift cards?",
+      "answer": "Yes! Gift cards are available in any amount from $10 to $500. You can purchase them in-person, online, or by phone. Digital gift cards are available for immediate delivery via email.",
+      "category": "gift_cards",
+      "keywords": ["gift card", "gift certificate", "present", "purchase", "buy", "digital"]
+    },
+    {
+      "id": 21,
+      "question": "Do you have gluten-free options?",
+      "answer": "Yes! We have a dedicated gluten-free menu with appetizers, entrees, and desserts. Our kitchen follows strict protocols to prevent cross-contamination, including separate prep areas and utensils.",
+      "category": "menu",
+      "keywords": ["gluten-free", "celiac", "wheat", "gluten", "special diet", "cross-contamination"]
+    },
+    {
+      "id": 22,
+      "question": "Do you serve breakfast all day?",
+      "answer": "We serve our full breakfast menu until 11:30 AM on weekdays and 1 PM on weekends. After that, we offer a limited breakfast menu with pancakes, eggs benedict, and breakfast sandwiches until closing.",
+      "category": "menu",
+      "keywords": ["breakfast", "all day", "pancakes", "eggs", "morning", "brunch"]
+    },
+    {
+      "id": 23,
+      "question": "Can I host a private party here?",
+      "answer": "Yes! We have a private dining room that seats up to 40 people. We offer customized menus and decorations for birthdays, anniversaries, and corporate events. Book at least 2 weeks in advance.",
+      "category": "events",
+      "keywords": ["private party", "event", "birthday", "anniversary", "corporate", "private dining"]
+    },
+    {
+      "id": 24,
+      "question": "Do you have a loyalty program?",
+      "answer": "Yes! Join our 'Foodie Rewards' program for free. Earn 1 point for every dollar spent, get a free appetizer after 100 points, and enjoy exclusive member discounts and birthday treats.",
+      "category": "rewards",
+      "keywords": ["loyalty", "rewards", "points", "free", "member", "birthday", "discounts"]
+    },
+    {
+      "id": 25,
+      "question": "Do you have parking available?",
+      "answer": "Yes, we have a free parking lot with 50 spaces, plus additional street parking nearby.",
+      "category": "amenities",
+      "keywords": ["parking", "car", "lot", "park", "vehicle"]
+    },
+
+    {
+      "id": 26,
+      "question": "What's your most popular dish?",
+      "answer": "Our signature BBQ ribs are our most popular item, followed closely by the truffle mac and cheese and our famous chocolate lava cake. The weekend seafood special is also a huge hit!",
+      "category": "menu",
+      "keywords": ["popular", "signature", "BBQ ribs", "truffle mac", "chocolate lava cake", "seafood"]
+    },
+    {
+      "id": 27,
+      "question": "Do you accommodate large groups?",
+      "answer": "Absolutely! We can accommodate groups of 8+ with advance notice. Large parties may have limited menu options and automatic 18% gratuity. Call us to discuss seating arrangements and timing.",
+      "category": "reservations",
+      "keywords": ["large groups", "parties", "8 people", "advance notice", "gratuity", "seating"]
+    },
+    {
+      "id": 28,
+      "question": "Is your food locally sourced?",
+      "answer": "Yes! We pride ourselves on using locally sourced ingredients whenever possible. Our beef comes from local farms within 50 miles, and we feature seasonal vegetables from regional suppliers.",
+      "category": "ingredients",
+      "keywords": ["locally sourced", "local", "farm", "fresh", "seasonal", "regional", "ingredients"]
+    },
+    {
+      "id": 29,
+      "question": "Can I make changes to menu items?",
+      "answer": "Most menu items can be customized! You can substitute sides, request sauces on the side, or modify cooking temperatures. Some items have preparation limitations, but our staff will do their best to accommodate you.",
+      "category": "menu",
+      "keywords": ["changes", "customize", "modify", "substitute", "sides", "sauce", "cooking"]
+    },
+    {
+      "id": 30,
+      "question": "Do you offer cooking classes?",
+      "answer": "Yes! We host cooking classes the first Saturday of each month featuring different cuisines. Classes are $75 per person and include all ingredients, instruction, and a full meal. Book online or call to reserve.",
+      "category": "classes",
+      "keywords": ["cooking classes", "learn", "instruction", "cuisines", "Saturday", "ingredients", "meal"]
+    },
+    {
+      "id": 31,
+      "question": "What's included in your brunch menu?",
+      "answer": "Our weekend brunch (10 AM - 3 PM) features bottomless mimosas, eggs benedict, avocado toast, chicken and waffles, breakfast burritos, and fresh fruit bowls. We also have gluten-free pancakes!",
+      "category": "menu",
+      "keywords": ["brunch", "mimosas", "eggs benedict", "avocado toast", "chicken waffles", "weekend"]
+    },
+    {
+      "id": 32,
+      "question": "Do you have outdoor seating?",
+      "answer": "Yes! We have a beautiful outdoor patio with 20 tables that's open weather permitting from April through October. The patio is heated and has a retractable awning for comfort.",
+      "category": "seating",
+      "keywords": ["outdoor", "patio", "weather", "heated", "awning", "April", "October"]
+    },
+    {
+      "id": 33,
+      "question": "Can I order online for pickup?",
+      "answer": "Absolutely! Order online through our website or mobile app for quick pickup. Orders are typically ready in 15-20 minutes. You can pay online or at pickup, and we'll have your food hot and ready.",
+      "category": "takeout",
+      "keywords": ["online ordering", "pickup", "website", "app", "15 minutes", "pay online"]
+    },
+    {
+      "id": 34,
+      "question": "What are your soup options?",
+      "answer": "We feature 3 rotating soups daily: one meat-based, one vegetarian, and one seasonal special. Popular options include tomato basil, chicken noodle, butternut squash, and our famous clam chowder on Fridays.",
+      "category": "menu",
+      "keywords": ["soup", "daily", "tomato basil", "chicken noodle", "butternut squash", "clam chowder"]
+    },
+    {
+      "id": 35,
+      "question": "Do you have a sommelier or wine expert?",
+      "answer": "Yes! Our certified sommelier is available Thursday through Saturday evenings to help with wine pairings and recommendations. We have over 100 wines and offer wine flights and tastings.",
+      "category": "wine",
+      "keywords": ["sommelier", "wine", "pairing", "recommendations", "flights", "tastings", "100 wines"]
+    },
+    {
+      "id": 36,
+      "question": "Can I bring my own wine?",
+      "answer": "Yes, we allow BYOB with a $15 corkage fee per bottle. We provide wine glasses and will chill or decant your wine upon request. Maximum 2 bottles per table, and the wine must be purchased outside our restaurant.",
+      "category": "wine",
+      "keywords": ["BYOB", "bring wine", "corkage fee", "$15", "chill", "decant", "2 bottles"]
+    },
+    {
+      "id": 37,
+      "question": "What desserts do you offer?",
+      "answer": "Our dessert menu includes chocolate lava cake, tiramisu, seasonal fruit tarts, crème brûlée, and house-made ice cream. We also have sugar-free options and can add candles for special celebrations!",
+      "category": "menu",
+      "keywords": ["desserts", "chocolate lava", "tiramisu", "fruit tarts", "crème brûlée", "ice cream", "sugar-free"]
+    },
+    {
+      "id": 38,
+      "question": "Is there a minimum for credit card purchases?",
+      "answer": "No minimum! You can use your credit card for any purchase amount. We accept chip, tap, and contactless payments. For your convenience, we also have an ATM on-site if you prefer to pay cash.",
+      "category": "payment",
+      "keywords": ["minimum", "credit card", "chip", "tap", "contactless", "ATM", "cash"]
+    },
+    {
+      "id": 39,
+      "question": "Do you have live music or entertainment?",
+      "answer": "Yes! We feature live acoustic music every Friday and Saturday from 7-10 PM. Local artists perform jazz, folk, and contemporary covers. There's no cover charge, just great food and music!",
+      "category": "entertainment",
+      "keywords": ["live music", "acoustic", "Friday", "Saturday", "jazz", "folk", "no cover charge"]
+    },
+    {
+      "id": 40,
+      "question": "What safety measures do you have in place?",
+      "answer": "We follow all health department guidelines with frequent sanitization, staff health screenings, and contactless payment options. Our staff is trained in food safety, and we maintain the highest cleanliness standards.",
+      "category": "safety",
+      "keywords": ["safety", "health", "sanitization", "contactless", "food safety", "cleanliness", "guidelines"]
+    }
+  ],
+  "metadata": {
+    "domain": "Restaurant/Food Service",
+    "total_faqs": 40,
+    "categories": ["hours", "delivery", "payment", "menu", "allergies", "reservations", "policy", "takeout", "catering", "amenities", "pets", "feedback", "specials", "accessibility", "gift_cards"],
+    "difficulty_level": "beginner_friendly",
+    "last_updated": "2025-01-20"
+  }
+}
